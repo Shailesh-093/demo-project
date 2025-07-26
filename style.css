@@ -1,0 +1,49 @@
+
+
+header {
+  background: linear-gradient(45deg, white, pink); /* Navy Blue + Gold */
+  color: black;
+  padding: 25px;
+  text-align: center;
+}
+
+section {
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 800px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  color: pink; /* Detroit navy blue*/ 
+
+  text-shadow: 
+      2px 2px 0 blue,  /* Bottom-right shadow */
+      -2px 2px 0 blue, /* Bottom-left shadow */
+      2px -2px 0 blue, /* Top-right shadow */
+      -2px -2px 0 blue; /* Top-left shadow */
+
+}
+
+h1 {
+  font-size: 49px;
+}
+
+img {
+  max-width: 200px;
+  display: block;
+  margin: 10px auto;
+  border-radius: 10px;
+  border: 3px solid #FFCB05; /* Gold border */
+}
+
+a {
+  color: #FFCB05; /* Gold links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
