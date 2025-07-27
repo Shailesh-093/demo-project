@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Scroll animation
 const sections = document.querySelectorAll('.section');
 
@@ -15,3 +16,11 @@ function revealOnScroll() {
 
 window.addEventListener('scroll', revealOnScroll);
 window.addEventListener('load', revealOnScroll);
+=======
+<script>
+  // Show a welcome message when the page loads
+  window.onload = function() {
+    alert("Welcome to Sommer's Portfolio Page!");
+    console.log("Page loaded successfully.");
+  };
+>>>>>>> 3cd75f567400b3e91be3583c585418a171ae7445

@@ -1,4 +1,5 @@
 /* this file is for css  */
+<<<<<<< HEAD
 /* Reset */
 * {
   margin: 0;
@@ -90,3 +91,9 @@ footer {
   background: #111;
   font-size: 0.9rem;
 }
+=======
+body{
+  background-color: red;
+}
+
+>>>>>>> 3cd75f567400b3e91be3583c585418a171ae7445
